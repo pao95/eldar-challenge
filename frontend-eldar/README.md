@@ -19,6 +19,7 @@ Este proyecto permite a los usuarios registrarse, iniciar sesión y cerrar sesi�
 ## Requisitos previos
 
 - [Node.js](https://nodejs.org/) 
+- **Backend**:  Es necesario ejecutar el proyecto del **backend-eldar** localmente para realizar la autenticación (explicado en Readme.md).
 
 ## Instalación
 
