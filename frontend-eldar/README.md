@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/3112831d-606c-4b9e-8c3d-6c64292222e9)# Frontend - Challenge Eldar
 
 Aplicación frontend para el challenge de Eldar, construida con React y Vite, que incluye autenticación de usuarios, manejo de roles, y permisos para acceder a contenido privado. La aplicación también permite la visualización, edición, y creación de publicaciones (posts) de usuarios.
 
@@ -77,10 +76,11 @@ Este proyecto permite a los usuarios registrarse, iniciar sesión y cerrar sesi�
 ![image](https://github.com/user-attachments/assets/329b9f12-1add-43c1-a79e-83d32a0451cc)
 
 - **Creación de post**:
-  
+
 ![image](https://github.com/user-attachments/assets/27b010d3-fa71-4b34-8e7f-ab1e47b796ad)
 
 - **Edicion de post**:
+  
 ![image](https://github.com/user-attachments/assets/208ecb1c-4de8-4a08-bb76-1192204e53ba)
 
 
