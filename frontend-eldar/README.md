@@ -1,4 +1,4 @@
-
+# Frontend - Challenge Eldar
 Aplicación frontend para el challenge de Eldar, construida con React y Vite, que incluye autenticación de usuarios, manejo de roles, y permisos para acceder a contenido privado. La aplicación también permite la visualización, edición, y creación de publicaciones (posts) de usuarios.
 
 ## Descripción
